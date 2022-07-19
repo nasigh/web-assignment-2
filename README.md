@@ -1,2 +1,2 @@
 # web-assignment-2
-![screenshot](https://user-images.githubusercontent.com/92051485/179701139-554f61ac-2def-4c9f-8760-1aba247332e9.jpg)
+![screenshot](https://user-images.githubusercontent.com/92051485/179739156-8eefe6fc-eb3a-445c-9c19-da3188714389.jpg)
